@@ -10,3 +10,5 @@ The receiver uses ESP32-S3 and SI4732 and is based on the following projects:
 * Open source (CC BY-NC-SA 3.0) [hardware and software](https://oshwhub.com/sunnygold/esp32s3-si4732-shou-yin-ji) (based on Ralph Xavier's work licensed under the MIT License) by Sunnygold. A copy of the attached files from oshwhub.com can be found [here](https://github.com/esp32-si4732/esp32-si4732-oshwhub). A significantly improved version of the Chinese firmware is available [here](https://github.com/zhang-chong/4732mini/).
 
 This GitHub org was created by Max Arnold (R9UCL) and is not official in any way. It is just a collection of notes, source code, plus the excellent docs made by Dave (G8PTN). It also documents [my own fork](https://github.com/esp32-si4732/ats-mini) that is heavily based on the alernative G8PTN firmware (see the full [documentation](https://esp32-si4732.github.io/ats-mini/) here).
+
+There is another independent firmware version at <http://www.hjberndt.de/dvb/pocketSI4735DualCoreDecoder.html>.
